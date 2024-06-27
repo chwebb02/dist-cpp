@@ -1,1 +1,0 @@
-/usr/bin/g++ -O3 -g CMakeFiles/dist.dir/src/main.cc.o -o dist  -Wl,-rpath,/home/chasew/Programming/dist/build -lcompiler liblexer.so 

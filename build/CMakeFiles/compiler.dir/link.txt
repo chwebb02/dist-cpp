@@ -1,1 +1,0 @@
-/usr/bin/g++ -fPIC -g -shared -Wl,-soname,libcompiler.so -o libcompiler.so CMakeFiles/compiler.dir/src/compiler.cc.o  -Wl,-rpath,/home/chasew/Programming/dist/build liblexer.so 

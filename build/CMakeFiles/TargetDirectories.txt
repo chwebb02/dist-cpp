@@ -1,6 +1,0 @@
-/home/chasew/Programming/dist/build/CMakeFiles/dist.dir
-/home/chasew/Programming/dist/build/CMakeFiles/lexer.dir
-/home/chasew/Programming/dist/build/CMakeFiles/edit_cache.dir
-/home/chasew/Programming/dist/build/CMakeFiles/rebuild_cache.dir
-/home/chasew/Programming/dist/build/test/CMakeFiles/edit_cache.dir
-/home/chasew/Programming/dist/build/test/CMakeFiles/rebuild_cache.dir

@@ -1,1 +1,0 @@
-/usr/bin/g++ -g CMakeFiles/lexerTests.dir/lexerTests.cc.o -o lexerTests  -Wl,-rpath,/home/chasew/Programming/dist/build ../liblexer.so -lgtest 
