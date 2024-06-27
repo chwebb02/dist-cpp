@@ -1,0 +1,16 @@
+# Reserved keywords
+- int8
+- int16
+- int32
+- int64
+- int128
+- char
+- string
+- bool
+- float16
+- float32
+- float64
+- struct
+- main
+- split
+- unsigned

@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/chasew/Programming/dist/build",
+  "command": "/usr/bin/g++  -I/home/chasew/Programming/dist/include -O3 -g -o CMakeFiles/dist.dir/src/main.cc.o -c /home/chasew/Programming/dist/src/main.cc",
+  "file": "/home/chasew/Programming/dist/src/main.cc"
+},
+{
+  "directory": "/home/chasew/Programming/dist/build",
+  "command": "/usr/bin/g++ -Dlexer_EXPORTS -I/home/chasew/Programming/dist/include -O3 -g -fPIC -o CMakeFiles/lexer.dir/src/lexer.cc.o -c /home/chasew/Programming/dist/src/lexer.cc",
+  "file": "/home/chasew/Programming/dist/src/lexer.cc"
+}
+]

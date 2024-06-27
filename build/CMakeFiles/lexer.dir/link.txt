@@ -1,0 +1,1 @@
+/usr/bin/g++ -fPIC -O3 -g -shared -Wl,-soname,liblexer.so -o liblexer.so CMakeFiles/lexer.dir/src/lexer.cc.o 
